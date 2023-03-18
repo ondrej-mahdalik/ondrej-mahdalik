@@ -1,5 +1,6 @@
-![](https://raw.githubusercontent.com/ondrej-mahdalik/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ondrej-mahdalik/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/ondrej-mahdalik/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ondrej-mahdalik/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/jstrieb/github-stats">
+  
+![](https://github.com/ondrej-mahdalik/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ondrej-mahdalik/github-stats/blob/master/generated/languages.svg)
+  
+</a>
